@@ -19,8 +19,6 @@ As a species, we are more connected than ever before, I saw this first handedly 
 
 What is a digital citizen? 
 
-Goals
-Define Digital citizenship
 In the archives of London, we explored old global citizenship passports. In 1948, many people were interested in becoming a digital citizen and signed up to receive these passports.  A digital citizen is the closest we’ve gotten to achieving global citizenship. The internet allows for people all over the world to have a platform and identity. According to Coed Tech, some Key Digital Rights are the:
 Right to access and use computers and/or other electronic devices
 Right to access and use digital content
@@ -40,7 +38,7 @@ In class we analyzed a map created for Jisc Digital Leaders Programme, called V&
 
 V&R map of Mom & Brother
 To see where you land on the spectrum, you can make a V&R map. Draw a horizontal line from Visitor to Resident. The, draw a vertical line from Personal to Institutional. Depending on your email, social media, and search engine activity, where do you have the most presence on the map?
-General idea: mom is more of a visitor and Leo is more of a resident
+General idea: Mom is more of a visitor and Leo is more of a resident
 
 
 Podcast Question Ideas
