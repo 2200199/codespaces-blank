@@ -36,7 +36,7 @@ Responsibility to report cyberbullying, threats, and inappropriate use of digita
 Define Digital Identity
 In class we analyzed a map created for Jisc Digital Leaders Programme, called [V&R](https://daveowhite.com/vandr/vr-mapping/). According to Professor David White, "The mapping process V&R stands for a Visitors and Residents based group activity which is designed to explore individuals engagement with the Web. It’s a good starting point for discovering how staff, students or clients are using the Web." Imagine a spectrum from Visitor to Resident, where visitors leave the least traceable impact online, and residents leave the most. Where you land on this spectrum is your digital identity.
 
-V&R map of Mom & Brother
+[V&R map of Mom & Brother](https://docs.google.com/document/d/1XsUmT4_mEZiIpKXK5nNSltNg0fKmD-OOxDG2mn1Qqhw/edit?usp=sharing)
 To see where you land on the spectrum, you can make a V&R map. Draw a horizontal line from Visitor to Resident. The, draw a vertical line from Personal to Institutional. Depending on your email, social media, and search engine activity, where do you have the most presence on the map?
 General idea: Mom is more of a visitor and Leo is more of a resident
 
