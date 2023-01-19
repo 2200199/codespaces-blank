@@ -1,14 +1,14 @@
-# codespaces-blank
+#Final Project
 Research Question
 When a natural disaster occurs, how do our digital identities influence the information we receive about this?
 
 Notes for Podcast Production
 -Some of the key questions we will be addressing are: 
-▪ How are digital technologies transforming society? 
-▪ To what extent do digital technologies curb or enhance our rights and freedom? 
-▪ What digital skills are needed for the knowledge economy and a democratic society? 
-▪ How can we build and use our online identities? 
-▪ How might we use digital technologies as creative and engaging forms of communication?
+How are digital technologies transforming society? 
+To what extent do digital technologies curb or enhance our rights and freedom? 
+What digital skills are needed for the knowledge economy and a democratic society? 
+How can we build and use our online identities? 
+How might we use digital technologies as creative and engaging forms of communication?
 
 As a species, we are more connected than ever before, I saw this first handedly as I studied abroad from May to January. Though I am a citizen of the United States, I shared a common citizenship with the people I met on my travels. Everyone I met was also a digital citizen. 
 
